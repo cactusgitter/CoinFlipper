@@ -5,7 +5,7 @@
 #
 #  CoinFlip.py
 #  
-#  Copyright 2018 user1 <user1@USER1-PC>
+#  Copyright 2018 Nicholas Blackmon
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
